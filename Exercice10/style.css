@@ -1,0 +1,26 @@
+form{
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 15%;
+    width: 30em;
+    height: 15em;
+    border-radius: 2em;
+    border: 2px solid red;
+    background-color: rgb(65, 192, 175);
+}
+#inp{
+    font-size: 1.5em;
+    height: 2em;
+    border-radius: 2em;
+}
+label{
+    font-size: 2em;
+}
+#en{
+    background-color:none;
+    font-size: 2em;
+    /* width: 10em; */
+    /* height: 3em; */
+    margin-top: none;
+    border-radius: 2em;
+}

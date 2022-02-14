@@ -1,0 +1,8 @@
+body{
+    display: flex;
+    justify-content: space-around;
+}
+table,td{
+    border:2px solid red ;
+    
+}
